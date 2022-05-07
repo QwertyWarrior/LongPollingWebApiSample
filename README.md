@@ -28,7 +28,7 @@ The server part of the project, containing the controllers and other objects ass
 
 ### WebApi/Controllers
 #### WeatherForecastController
-Sample controller with implemented Long Pooling 
+Sample controller with implemented Long Polling 
 
 ### WebApi/WeatherForecastStorage
 #### WeatherForecastRequestStorage
